@@ -1,6 +1,4 @@
 
-use hr;
-
 -- Creating the transformed ProductDetail table in 1NF
 CREATE TABLE ProductDetail_1NF (
     OrderID INT,
