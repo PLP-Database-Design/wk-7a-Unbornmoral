@@ -1,4 +1,4 @@
-create database hr;
+
 use hr;
 
 -- Creating the transformed ProductDetail table in 1NF
